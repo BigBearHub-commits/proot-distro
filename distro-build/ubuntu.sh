@@ -67,3 +67,4 @@ write_plugin() {
 	}
 	EOF
 }
+
