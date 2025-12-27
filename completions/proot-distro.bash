@@ -81,3 +81,4 @@ _proot-distro() {
 }
 
 complete -F _proot-distro proot-distro pd
+
