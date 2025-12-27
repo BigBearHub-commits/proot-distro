@@ -81,3 +81,4 @@ complete -c proot-distro -x -n "__fish_seen_subcommand_from $login" -l hostname 
 complete -c proot-distro -Fr -n "__fish_seen_subcommand_from $login" -l bind -d "Create a custom file system path binding"
 complete -c proot-distro -Fr -n "__fish_seen_subcommand_from $login" -l work-dir -d "Set the working directory to given value"
 complete -c proot-distro -Fr -n "__fish_seen_subcommand_from $login" -l env -a ENVVAR=value -d "Set environment variable"
+
