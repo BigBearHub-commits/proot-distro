@@ -50,3 +50,4 @@ write_plugin() {
 	}
 	EOF
 }
+
