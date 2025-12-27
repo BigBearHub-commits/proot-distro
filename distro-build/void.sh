@@ -1,5 +1,5 @@
 dist_name="Void Linux"
-dist_version="20250202"
+dist_version="20251227"
 
 bootstrap_distribution() {
 	sudo rm -f "${ROOTFS_DIR}"/void-*.tar.xz
@@ -59,3 +59,4 @@ write_plugin() {
 	}
 	EOF
 }
+
